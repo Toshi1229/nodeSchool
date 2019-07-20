@@ -1,0 +1,20 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsyuting/nodeSchool.git"
+  },
+  "author": "Allan Hsu",
+  "license": "GNU v3",
+  "bugs": {
+    "url": "https://github.com/hsyuting/nodeSchool/issues"
+  },
+  "homepage": "https://github.com/hsyuting/nodeSchool#readme"
+}
